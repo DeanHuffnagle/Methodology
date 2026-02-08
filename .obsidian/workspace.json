@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Privilege Escalation Methodology.md",
+                "file": "Reconnaissance & Target Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Privilege Escalation Methodology"
+              "title": "Reconnaissance & Target Discovery"
             }
           }
         ]
@@ -196,11 +196,12 @@
   },
   "active": "df6f12fd7ab2a7cc",
   "lastOpenFiles": [
-    "Webserver Enumeration Methodology.md",
+    "README.md",
     "Reconnaissance & Target Discovery.md",
+    "Windows Privilege Escalation Methodology.md",
+    "Webserver Enumeration Methodology.md",
     "Linux Privilege Escalation Methodology.md",
     "Active Directory Methodology.md",
-    "Windows Privilege Escalation Methodology.md",
     "Welcome.md",
     "Untitled 3.md"
   ]
